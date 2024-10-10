@@ -25,8 +25,6 @@ I reimplemented the tutorial code using Python.
 * [4-1 Surface normal with multi-processing](./04_surface_normal_mp.ipynb)
 * [4-2 Surface normal with numpy broadcasting](./04_surface_normal_nb.ipynb)
 
-이후로는 진행 중인 챕터들입니다.
-
 * [5 Hittable object](./05_hittable_object_base.ipynb)
   * 여러 물체들을 장면에 배치하고 함께 ray가 어느 물체를 먼저 만나는지 확인합니다.
 * [5-1 Hittable object with multi-processing](./05_hittable_object_mp.ipynb)
@@ -36,6 +34,8 @@ I reimplemented the tutorial code using Python.
   * 하나의 픽셀당 여러 ray를 샘플링해서 이미지의 계단(aliasing) 효과를 줄입니다.
 * [6-1 Antialiasing with multi-processing](./06_antialiasing_mp.ipynb)
 * [6-2 Antialiasing with numpy broadcasting](./06_antialiasing_nb.ipynb)
+
+아래는 진행 중인 챕터들입니다.
 
 * [7 Diffuse Material](./07_diffuse_material_base.ipynb)
   * 빛의 난반사(diffuse)를 구현합니다.
